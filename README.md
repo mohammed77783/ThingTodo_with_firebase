@@ -15,28 +15,29 @@ ____
 ___
 ## register  screen  
 
-![](assets/images/Regester_screen.jpg)
+![](=500x500)
+<img src="assets/images/Regester_screen.jpg" width="300" height="600">
 ___
 ## Login screen 
 
-![](assets/images/login_screen.jpg)
+<img src="assets/images/login_screen.jpg" width="300" height="600">
 ___
 
 ## Main screen 
-![](assets/images/Main_screen.jpg)
+<img src="assets/images/Main_screen.jpg" width="300" height="600">
 
 
 ___
 ## Add Screen
-![](assets/images/add_screen.jpg)
+<img src="assets/images/add_screen.jpg" width="300" height="600">
 
 
 
 ## Update Screen
-![](assets/images/updatescreen.jpg)
+<img src="assets/images/updatescreen.jpg" width="300" height="600">
 
 
 
 ## Delete Screen
-![](assets/images/show_message_to_delete.jpg)
+<img src="assets/images/show_message_to_delete.jpg" width="300" height="600">
 
